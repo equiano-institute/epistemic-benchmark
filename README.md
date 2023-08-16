@@ -24,9 +24,9 @@ observability.
 Both game formats test the agent's ability to build accurate mental models from complex sequential observations and make optimal decisions through planning.
 
 # MACHIAVELLI Benchmark
-This is based on the Mechavellian Benchmark: 
+This is based on the [Mechavellian Benchmark](https://arxiv.org/abs/2304.03279)
 
-![image](https://github.com/equiano-institute/epistemic-benchmark/assets/25654848/1f4a2c36-554a-4b88-b92f-846d5fcff47d)
+![image](https://github.com/equiano-institute/epistemic-benchmark/assets/25654848/1eca7c9e-a796-4bd6-b48b-c1b9a866c2c0)
 
 ## Epistemic Metrics
 The benchmark evaluates agents along the following epistemic dimensions:
