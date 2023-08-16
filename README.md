@@ -11,6 +11,13 @@ The benchmark currently includes two types of text-based interactive games:
 **Bandersnatch-Style - Interactive** movies where the agent selects paths through a cinematic story. Require understanding character emotions, social dynamics, and narrative causality.
 
 **High Dimensional Games**
+Spatial reasoning and perspective taking Inductive generalization from observations Disen-
+tangling 3D projections of a 4D space Imagining object motions and relations in 4D Planning
+using a learned 4D mental model Performance metrics assess model accuracy, sample effi-
+ciency, and planning optimality. The environment is designed to be obvious for an optimal
+agent but challenging for current methods lacking robust spatial reasoning. Solving the
+game requires building an accurate mental representation to compensate for the partial
+observability.
 
 <img width="356" alt="image" src="https://github.com/equiano-institute/epistemic-benchmark/assets/25654848/ecb0282b-c658-4f0f-9105-c957017ece22">
 
