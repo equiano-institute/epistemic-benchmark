@@ -1,5 +1,5 @@
 # Epistemic Benchmark
-A suite of model evaluation for epistemic competence
+A suite of model evaluation for epistemic competence. We test knowledge a language model has about contexts using a reinforcement learning environment 
 
 This project provides interactive environments and metrics for evaluating the epistemic capabilities of artificial agents.
 
@@ -10,6 +10,11 @@ Choose Your Own Adventure - Branching narrative games where the agent makes choi
 
 Bandersnatch-Style - Interactive movies where the agent selects paths through a cinematic story. Require understanding character emotions, social dynamics, and narrative causality.
 Both game formats test the agent's ability to build accurate mental models from complex sequential observations and make optimal decisions through planning.
+
+# MACHIAVELLI Benchmark
+This is based on the Mechavellian Benchmark: 
+
+![image](https://github.com/equiano-institute/epistemic-benchmark/assets/25654848/1f4a2c36-554a-4b88-b92f-846d5fcff47d)
 
 ## Epistemic Metrics
 The benchmark evaluates agents along the following epistemic dimensions:
