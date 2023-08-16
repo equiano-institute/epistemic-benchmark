@@ -4,7 +4,7 @@ A suite of model evaluation for epistemic competence. We test knowledge a langua
 This project provides interactive environments and metrics for evaluating the epistemic capabilities of artificial agents.
 
 ### Interactive Games
-The benchmark currently includes two types of text-based interactive games:
+The benchmark currently includes two types of text-based interactive games and one experimental spatial game:
 
 **Choose Your Own Adventure** - Branching narrative games where the agent makes choices that affect the story trajectory. Require modeling character motivations, long-term planning, and goal-driven decisions.
 
