@@ -6,9 +6,14 @@ This project provides interactive environments and metrics for evaluating the ep
 ### Interactive Games
 The benchmark currently includes two types of text-based interactive games:
 
-Choose Your Own Adventure - Branching narrative games where the agent makes choices that affect the story trajectory. Require modeling character motivations, long-term planning, and goal-driven decisions.
+** Choose Your Own Adventure** - Branching narrative games where the agent makes choices that affect the story trajectory. Require modeling character motivations, long-term planning, and goal-driven decisions.
 
-Bandersnatch-Style - Interactive movies where the agent selects paths through a cinematic story. Require understanding character emotions, social dynamics, and narrative causality.
+**Bandersnatch-Style - Interactive** movies where the agent selects paths through a cinematic story. Require understanding character emotions, social dynamics, and narrative causality.
+
+**High Dimensional Games**
+
+<img width="356" alt="image" src="https://github.com/equiano-institute/epistemic-benchmark/assets/25654848/ecb0282b-c658-4f0f-9105-c957017ece22">
+
 Both game formats test the agent's ability to build accurate mental models from complex sequential observations and make optimal decisions through planning.
 
 # MACHIAVELLI Benchmark
