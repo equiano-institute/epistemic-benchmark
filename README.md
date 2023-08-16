@@ -32,12 +32,19 @@ This is based on the [Mechavellian Benchmark](https://arxiv.org/abs/2304.03279)
 The benchmark evaluates agents along the following epistemic dimensions:
 
 Environment modeling - Accuracy of learned dynamics model, ability to explain environment behavior
+
 Adaptability - Speed and accuracy of model updates in response to new observations
+
 Social intelligence - Capacity for theory of mind and modeling other agents
+
 Causal reasoning - Effectiveness at inferring causal relationships from events
+
 Transfer learning - Leveraging knowledge on new games with similar dynamics
+
 Imagination - Ability to predict hypotheticals and potential outcomes
+
 Strategy optimization - Rational decision making given internal environment model
+
 ## Choose-Your-Own-Adventure
 
 ## Bandersnitch Movie Game Options
