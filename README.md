@@ -1,6 +1,12 @@
 # Epistemic Benchmark
 A suite of model evaluation for epistemic competence. We test knowledge a language model has about contexts using a reinforcement learning environment 
 
+**Relevant Research**
+- [Epistemic Neural Networks](https://github.com/deepmind/enn ) A library for neural networks that know what they don't know(this is also called Negative Expertise).
+For background information, please see the [paper](https://arxiv.org/abs/2107.08924)
+  
+
+
 This project provides interactive environments and metrics for evaluating the epistemic capabilities of artificial agents.
 
 ### Interactive Games
